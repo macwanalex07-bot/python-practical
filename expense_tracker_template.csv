@@ -1,0 +1,13 @@
+Date,Time,Category,Subcategory,Amount,Currency,Payment Method,Merchant,Account,Tags,Notes,Receipt,Recurring,Budget Category,Location,Project,Import ID
+2025-10-01,08:15,Food,Breakfast,3.5,USD,Card,Cafe Bloom,Checking,work;morning,Coffee & croissant,receipts/20251001_001.jpg,No,Daily,New York,,EXP-20251001-001
+2025-10-02,12:30,Transport,Taxi,15.0,USD,Card,City Taxi,Credit Card,client-meeting,Airport to client office,receipts/20251002_001.jpg,No,Work,New York,Client A,EXP-20251002-001
+2025-10-03,19:00,Entertainment,Movie,12.0,USD,Cash,Regal Cinema,Cash Wallet,leisure,Movie night,receipts/20251003_001.jpg,No,Leisure,New York,,EXP-20251003-001
+2025-10-05,09:00,Groceries,Supermarket,48.25,USD,Card,Whole Foods,Debit Card,weekly,Groceries for the week,receipts/20251005_001.jpg,Weekly,Groceries,Brooklyn,,EXP-20251005-001
+2025-10-07,07:30,Health,Gym,30.0,USD,Card,FitHub,Credit Card,fitness;monthly,Monthly gym drop-in,receipts/20251007_001.jpg,Monthly,Health,Brooklyn,,EXP-20251007-001
+2025-10-10,14:45,Bills,Internet,60.0,USD,Bank Transfer,SpeedNet,Checking,utilities;monthly,October internet bill,receipts/20251010_001.pdf,Monthly,Utilities,New York,,EXP-20251010-001
+2025-10-12,18:20,Shopping,Clothing,85.99,USD,Card,Zara,Credit Card,wardrobe,Jacket purchase,receipts/20251012_001.jpg,No,Clothing,Manhattan,,EXP-20251012-001
+2025-10-15,08:00,Income,Salary,2500.0,USD,Bank Transfer,Acme Corp,Checking,paycheck,October salary,,Monthly,Income,New York,,INC-20251015-001
+2025-10-18,13:10,Transport,Public Transit,2.75,USD,Card,MTA,Card,commute,Subway ride,,No,Transport,New York,,EXP-20251018-001
+2025-10-20,20:00,Dining,Restaurant,65.4,USD,Card,Olive Garden,Credit Card,dinner;friends,Dinner with friends,receipts/20251020_001.jpg,No,Dining Out,Queens,,EXP-20251020-001
+2025-10-25,10:00,Education,Books,24.99,USD,Card,Bookstore,Debit Card,learning,Data science book,receipts/20251025_001.jpg,No,Education,Brooklyn,,EXP-20251025-001
+2025-10-28,16:40,Utilities,Electricity,120.5,USD,Bank Transfer,PowerGrid,Checking,utilities;monthly,Electricity bill for Oct,receipts/20251028_001.pdf,Monthly,Utilities,New York,,EXP-20251028-001
